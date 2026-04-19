@@ -9,7 +9,7 @@ int main(){
     char nome[10][100],telefone[10][30];
 
     while(opcao !=5){
-        printf("\n||||||||  CADASTRO TELEFÔNICO EM C ||||||||");
+        printf("\n||||||||  CADASTRO TELEFÃ”NICO EM C ||||||||");
         printf("\n1. Cadastrar telefone");
         printf("\n2. Consultar agenda");
         printf("\n3. Alterar numero");
